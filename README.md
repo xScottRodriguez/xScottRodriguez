@@ -8,7 +8,7 @@
 
 
 <p align="center">
- <a href="https://app.daily.dev/xMichaelrodrigu"><img src="https://api.daily.dev/devcards/5205d65848c2445c9070bc4d26c79fc4.png?r=mwm" width="400" alt="Michael Rodríguez's Dev Card"/></a>
+ <a href="https://app.daily.dev/xscottrodriguez"><img src="https://api.daily.dev/devcards/v2/ocue6vVudv66fNV9bI32X.png?r=b2h&type=wide" width="652" alt="Michael's Dev Card"/></a>
 </p>
 
 
